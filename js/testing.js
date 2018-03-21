@@ -1,4 +1,36 @@
+function hello(){
+  console.log("works");
+}
 
+var heading=document.querySelector('h1');
+var customHeader = "something";
+heading.textContent = customHeader;
+
+document
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 (function(){
   "use strict";
   function greetMe(yourName) {
@@ -17,3 +49,4 @@ var firstnum = 2;
 var secondnum = 4;
 var total = firstnum + secondnum;
 document.write(total);
+*/
